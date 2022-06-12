@@ -1,0 +1,66 @@
+body {
+    padding-left: 200px;
+    padding-right: 200px;
+    background-color: rgb(27, 36, 48);  
+}
+.search-container {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+.img-container {
+    padding: 7px;
+    height: 180px;
+    width: 180px;
+    margin: auto;
+}
+
+.btn{
+    background-color: rgb(129, 103, 151);
+    border-color: rgb(129, 103, 151);
+    
+
+}
+
+.kosong {
+    margin-top: 20px;
+    color: white;
+}
+
+.card {
+border-color: rgb(56, 56, 56);
+color: rgb(214, 213, 168);
+}
+
+.card-body {
+    background-color: rgb(81, 85, 126);
+    
+}
+
+
+.img-size {
+    height: 150px;
+    width: auto;
+}
+
+.modal-header {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+
+.detail {
+    margin-top: 5px;
+}
+
+.clr-secondary {
+    background-color:  rgb(81, 85, 126);
+}
+
+.clr-name {
+    color: rgb(214, 213, 168);
+}
+
+.clr-third {
+    background-color: rgb(160, 159, 159);
+}
+
